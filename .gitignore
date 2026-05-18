@@ -1,0 +1,28 @@
+# Arquivos com credenciais reais
+.env
+.env.*
+*.key
+*.pem
+secrets/
+credentials.json
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (caso use algum gerador de site no futuro)
+node_modules/
+package-lock.json
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.log
