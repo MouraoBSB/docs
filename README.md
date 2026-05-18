@@ -11,6 +11,7 @@
 ### 🌐 Hospedagem
 - [Deploy na Napoleon Host](hospedagem/napoleon-host-deploy.md) — passo a passo de subida via cPanel/FTP/Git
 - [Cron jobs na Napoleon Host](hospedagem/napoleon-host-cron.md) — agendamento de tarefas, tokens de proteção, exemplos
+- [Deploy interativo via FTP (PowerShell)](hospedagem/deploy-interativo-ftp.md) — script PS1 com menu interativo + invocação por IA (modes, RESULT:, exit codes)
 
 ### 📧 Email
 - [SMTP com Gmail](email/smtp-gmail.md) — App Password, configuração em PHP (PHPMailer), troubleshooting
