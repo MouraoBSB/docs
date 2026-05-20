@@ -11,6 +11,7 @@ Este repositório é pra você (e pra qualquer pessoa que precise das mesmas con
 | `hospedagem/` | Tudo relacionado a servidores, cPanel, deploy, FTP, SSH, DNS |
 | `email/` | SMTP, IMAP, providers (Gmail, Zoho, SendGrid) |
 | `apis/` | Integrações com APIs de terceiros (Google, Anthropic, OpenAI, etc.) |
+| `backup/` | Estratégias de backup (local, remoto, restore, retenção) |
 | `php/` | Padrões, snippets e boas práticas em PHP |
 | `templates/` | Templates reutilizáveis (não é doc final) |
 

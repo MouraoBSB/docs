@@ -13,6 +13,9 @@
 - [Cron jobs na Napoleon Host](hospedagem/napoleon-host-cron.md) — agendamento de tarefas, tokens de proteção, exemplos
 - [Deploy interativo via FTP (PowerShell)](hospedagem/deploy-interativo-ftp.md) — script PS1 com menu interativo + invocação por IA (modes, RESULT:, exit codes)
 
+### 💾 Backup
+- [Backup remoto cPanel → Google Drive](backup/cpanel-google-drive.md) — dump PHP-only (sem mysqldump), upload OAuth sem libs externas, cron CLI, retenção FIFO, painel admin e troubleshooting completo
+
 ### 📧 Email
 - [SMTP com Gmail](email/smtp-gmail.md) — App Password, configuração em PHP (PHPMailer), troubleshooting
 
